@@ -16,6 +16,7 @@ public class FcatrialUsingForLoop {
 			System.out.println(fact);
 		}
 		System.out.println("Final Factorial value is  "+fact);
+		System.out.println("Final Factorial value is  "+fact);
 
 	}
 
